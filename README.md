@@ -6,7 +6,7 @@ This project focuses on applying machine learning techniques to classify financi
 
 ## Purpose
 
-The goal is to classify assets into three categories (forecastable, undefined, and non-forecastable) and use these classifications to construct efficient long-short trading strategies. By leveraging regression analysis, we aim to minimize risk and maximize return for currency pairs over a defined time period.
+The goal is to classify assets into three categories (forecastable, undefined, and non-forecastable) and use these classifications to construct efficient long-short trading strategies. By leveraging regression analysis, I aim to minimize risk and maximize return (earn optimal Sharpe ratio) for currency pairs over a defined time period.
 
 ## Methodology
 
