@@ -6,6 +6,7 @@ In the vast financial market, retail investors are often overwhelmed by the numb
 
 While thorough due diligence is ideal for value investors focused on long-term investment horizons, it requires substantial financial expertise and is time-consuming. Data-driven analysis, specifically in the realm of machine learning, provides an efficient alternative for addressing emotional and unsophisticated investment decisions. The purpose of this project is to classify assets into appropriate classes and construct efficient trading strategies using machine learning techniques.
 
+More information can be viewed by downloading the FX market PPT, uploaded in the retreivable file.
 ## Presetting of the Project
 
 ### 1. Currency Pairs (CPs):
