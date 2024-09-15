@@ -84,3 +84,8 @@ These results indicate that the methodology used is both feasible and effective.
 3. Rebalance the trading portfolio over time to prevent strategy distortion.
 4. Entry and exit points should be determined by FD, volatility, and other factors that can estimate movement direction.
 
+## Database and API Information
+| Resource        | Description                          | Link                                                    |
+|-----------------|--------------------------------------|---------------------------------------------------------|
+| **ArcDB**       | Database used for the project        | [ArcDB Documentation](https://www.arcdb.com)            |
+| **Polygon API** | API used to retrieve market data     | [Polygon API Documentation](https://polygon.io/docs)    |
