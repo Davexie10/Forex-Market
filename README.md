@@ -87,5 +87,5 @@ These results indicate that the methodology used is both feasible and effective.
 ## Database and API Information
 | Resource        | Description                          | Link                                                    |
 |-----------------|--------------------------------------|---------------------------------------------------------|
-| **ArcDB**       | Database used for the project        | [ArcDB Documentation](https://www.arcdb.com)            |
+| **ArcDB**       | Database used for the project        | [ArcDB Documentation](https://docs.arcticdb.io/latest/)            |
 | **Polygon API** | API used to retrieve market data     | [Polygon API Documentation](https://polygon.io/docs)    |
