@@ -140,4 +140,5 @@ These results indicate that the methodology used is both feasible and effective.
 
 ## Extension of Dynamic Long and Short Strategy
 Repeat the L/S strategy on GBPUSD and USDJPY previously developed. However, now repeat the time-factored regression I did at hour #5 at hours #6 and #7 to dynamically decide the Long CP and the Short CP
+
 (see the code of Jupter notes named 'FX_L-S_Strategy_dynamic_update')
