@@ -117,6 +117,7 @@ Based on this, I decided to **long GBP/USD** and **short USD/JPY**, assuming mom
   - Reinvestment 2 return: 0.1052%
   - **Total return**: 0.3639%
   - **Arithmetic average return**: 0.1213%
+
 ![image](https://github.com/user-attachments/assets/43443b0f-b551-402e-a4c4-c5eaa068318c)
 
 Given capital limitations, reinvesting at such a high frequency is impractical. Thus, a return of 0.1511% over a 3-hour period was used as the performance metric. When converted to a daily return, this yields 1.22%, and when annualized, results in a high return (assuming similar conditions persist).
